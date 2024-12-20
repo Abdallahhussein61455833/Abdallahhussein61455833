@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Abdallahhussein61455833/Abdallahhussein61455833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdallah Hussein, a passionate Front-end Developer based in Giza, Egypt.
 
-Here are some ideas to get you started:
+🚀 I specialize in building interactive and responsive web applications using Angular.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm currently working on my portfolio and constantly exploring new technologies and tools.
+
+## 🔧 Technologies & Tools
+
+- Angular.js
+- TypeScript
+- Bootstrap
+- Tailwind
+- jQuery
+- Rest-APIs
+- HTML5 & CSS3 (SASS/SCSS)
+- JavaScript (ES6+)
+- React
+- Git & GitHub
+  
+  
+
+
+
+## 📫 Let's Connect
+
+- Portfolio: [portfolio](https://portfolio-nu-indol-12.vercel.app/)
+- LinkedIn: [linked in](https://www.linkedin.com/in/abdalah-soliman-3212b7242)
+- Email: abdallah61455833@gmail.com
